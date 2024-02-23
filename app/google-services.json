@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990935353085",
+    "project_id": "yuval-s-4e8e1",
+    "storage_bucket": "yuval-s-4e8e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990935353085:android:171975c79e46279f0fa094",
+        "android_client_info": {
+          "package_name": "com.example.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1LzHQZ8EFv3EJsgmtRCjL_OhZbveEg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990935353085:android:c0ec6e463b07cb150fa094",
+        "android_client_info": {
+          "package_name": "com.example.myapplication2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1LzHQZ8EFv3EJsgmtRCjL_OhZbveEg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
